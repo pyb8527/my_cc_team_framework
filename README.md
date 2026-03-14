@@ -11,7 +11,7 @@ Each plugin includes a **specialized agent** (defining role, responsibilities, a
 ### 1. Add this marketplace
 
 ```bash
-claude marketplace add github:beenie/beenie-claude
+claude marketplace add github:pyb8527/cc_spring_framework
 ```
 
 ### 2. Install the plugins you need
