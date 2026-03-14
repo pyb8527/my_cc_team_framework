@@ -1,4 +1,4 @@
-# beenie-claude
+# my_cc_team_framework
 
 A curated Claude Code marketplace with role-based AI agents and curated skills for development teams.
 
