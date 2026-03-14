@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "cc_spring_framework",
+  "name": "my_cc_team_framework",
   "description": "A curated collection of role-based Claude Code agents and skills for development teams",
   "owner": {
     "name": "Beenie"
