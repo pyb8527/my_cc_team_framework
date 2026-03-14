@@ -21,15 +21,15 @@ claude marketplace add github:pyb8527/cc_spring_framework
 Open Claude Code, then use the `/plugin` slash command:
 
 ```
-/plugin install backend-developer@beenie-claude
-/plugin install frontend-developer@beenie-claude
-/plugin install dba@beenie-claude
-/plugin install qa@beenie-claude
-/plugin install ui-ux-designer@beenie-claude
-/plugin install pm@beenie-claude
-/plugin install planner@beenie-claude
-/plugin install pl@beenie-claude
-/plugin install understand-repo@beenie-claude
+/plugin install backend-developer@cc_spring_framework
+/plugin install frontend-developer@cc_spring_framework
+/plugin install dba@cc_spring_framework
+/plugin install qa@cc_spring_framework
+/plugin install ui-ux-designer@cc_spring_framework
+/plugin install pm@cc_spring_framework
+/plugin install planner@cc_spring_framework
+/plugin install pl@cc_spring_framework
+/plugin install understand-repo@cc_spring_framework
 ```
 
 Or open the plugin browser with `/plugin` and find them in the **Discover** tab.
