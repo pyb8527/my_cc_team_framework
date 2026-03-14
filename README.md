@@ -10,23 +10,29 @@ Each plugin includes a **specialized agent** (defining role, responsibilities, a
 
 ### 1. Add this marketplace
 
+Run this in your terminal:
+
 ```bash
 claude marketplace add github:pyb8527/cc_spring_framework
 ```
 
-### 2. Install the plugins you need
+### 2. Install plugins inside a Claude Code session
 
-```bash
-claude plugin install understand-repo
-claude plugin install backend-developer
-claude plugin install frontend-developer
-claude plugin install dba
-claude plugin install qa
-claude plugin install ui-ux-designer
-claude plugin install pm
-claude plugin install planner
-claude plugin install pl
+Open Claude Code, then use the `/plugin` slash command:
+
 ```
+/plugin install backend-developer@beenie-claude
+/plugin install frontend-developer@beenie-claude
+/plugin install dba@beenie-claude
+/plugin install qa@beenie-claude
+/plugin install ui-ux-designer@beenie-claude
+/plugin install pm@beenie-claude
+/plugin install planner@beenie-claude
+/plugin install pl@beenie-claude
+/plugin install understand-repo@beenie-claude
+```
+
+Or open the plugin browser with `/plugin` and find them in the **Discover** tab.
 
 ---
 
