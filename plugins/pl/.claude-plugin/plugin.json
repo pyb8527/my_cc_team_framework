@@ -1,0 +1,8 @@
+{
+  "name": "pl",
+  "description": "Project lead / tech lead agent for architecture decisions, code review, and team coordination",
+  "version": "1.0.0",
+  "author": {
+    "name": "Beenie"
+  }
+}

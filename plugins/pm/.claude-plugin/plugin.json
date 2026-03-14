@@ -1,0 +1,8 @@
+{
+  "name": "pm",
+  "description": "Product manager agent with document co-authoring, PPTX, DOCX, and internal comms skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "Beenie"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dba",
+  "description": "Database administrator agent with PostgreSQL, MySQL, and Redis best practice skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "Beenie"
+  }
+}

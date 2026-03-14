@@ -1,0 +1,8 @@
+{
+  "name": "frontend-developer",
+  "description": "Senior frontend developer agent with React/Next.js skills — App Router, RSC, TypeScript, Tailwind",
+  "version": "1.0.0",
+  "author": {
+    "name": "Beenie"
+  }
+}

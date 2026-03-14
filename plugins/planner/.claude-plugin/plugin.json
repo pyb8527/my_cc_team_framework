@@ -1,0 +1,8 @@
+{
+  "name": "planner",
+  "description": "기획자 (service planner) agent with document authoring and communication skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "Beenie"
+  }
+}

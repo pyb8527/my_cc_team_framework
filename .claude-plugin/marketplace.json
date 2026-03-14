@@ -1,0 +1,82 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "beenie-claude",
+  "description": "A curated collection of role-based Claude Code agents and skills for development teams",
+  "owner": {
+    "name": "Beenie"
+  },
+  "plugins": [
+    {
+      "name": "understand-repo",
+      "description": "Deeply analyze any codebase — architecture, modules, DB schema, API surface, and how to run it",
+      "version": "1.0.0",
+      "author": { "name": "Beenie" },
+      "source": "./plugins/understand-repo",
+      "category": "productivity"
+    },
+    {
+      "name": "backend-developer",
+      "description": "Senior backend developer agent with Spring Boot (Java/Kotlin) skills — REST API, security, JPA, TDD",
+      "version": "1.0.0",
+      "author": { "name": "Beenie" },
+      "source": "./plugins/backend-developer",
+      "category": "development"
+    },
+    {
+      "name": "frontend-developer",
+      "description": "Senior frontend developer agent with React/Next.js skills — App Router, RSC, TypeScript, Tailwind",
+      "version": "1.0.0",
+      "author": { "name": "Beenie" },
+      "source": "./plugins/frontend-developer",
+      "category": "development"
+    },
+    {
+      "name": "dba",
+      "description": "Database administrator agent with PostgreSQL, MySQL, and Redis best practice skills",
+      "version": "1.0.0",
+      "author": { "name": "Beenie" },
+      "source": "./plugins/dba",
+      "category": "development"
+    },
+    {
+      "name": "qa",
+      "description": "QA engineer agent with webapp testing, Playwright, and frontend testing best practice skills",
+      "version": "1.0.0",
+      "author": { "name": "Beenie" },
+      "source": "./plugins/qa",
+      "category": "development"
+    },
+    {
+      "name": "ui-ux-designer",
+      "description": "UI/UX designer agent with frontend design, canvas, theme, and brand guideline skills",
+      "version": "1.0.0",
+      "author": { "name": "Beenie" },
+      "source": "./plugins/ui-ux-designer",
+      "category": "design"
+    },
+    {
+      "name": "pm",
+      "description": "Product manager agent with document co-authoring, PPTX, DOCX, and internal comms skills",
+      "version": "1.0.0",
+      "author": { "name": "Beenie" },
+      "source": "./plugins/pm",
+      "category": "productivity"
+    },
+    {
+      "name": "planner",
+      "description": "기획자 (service planner) agent with document authoring and communication skills",
+      "version": "1.0.0",
+      "author": { "name": "Beenie" },
+      "source": "./plugins/planner",
+      "category": "productivity"
+    },
+    {
+      "name": "pl",
+      "description": "Project lead / tech lead agent for architecture decisions, code review, and team coordination",
+      "version": "1.0.0",
+      "author": { "name": "Beenie" },
+      "source": "./plugins/pl",
+      "category": "development"
+    }
+  ]
+}

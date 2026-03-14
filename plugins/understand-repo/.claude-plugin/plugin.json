@@ -1,0 +1,8 @@
+{
+  "name": "understand-repo",
+  "description": "Deeply analyze any codebase — architecture, modules, DB schema, API surface, and how to run it",
+  "version": "1.0.0",
+  "author": {
+    "name": "Beenie"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "qa",
+  "description": "QA engineer agent with webapp testing, Playwright, and frontend testing best practice skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "Beenie"
+  }
+}

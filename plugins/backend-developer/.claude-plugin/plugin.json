@@ -1,0 +1,8 @@
+{
+  "name": "backend-developer",
+  "description": "Senior backend developer agent with Spring Boot (Java/Kotlin) skills — REST API, security, JPA, TDD",
+  "version": "1.0.0",
+  "author": {
+    "name": "Beenie"
+  }
+}
