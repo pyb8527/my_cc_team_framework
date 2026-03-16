@@ -1,0 +1,7 @@
+{
+  "name": "my-cc-team-framework",
+  "description": "A curated collection of role-based Claude Code agents and skills for development teams (Backend, Frontend, DBA, QA, UI/UX, PM, Planner, PL)",
+  "author": {
+    "name": "Beenie (pyb8527)"
+  }
+}
