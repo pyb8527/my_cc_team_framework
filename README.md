@@ -48,7 +48,7 @@ Or open the plugin browser with `/plugin` and find them in the **Discover** tab.
 | [ui-ux-designer](./plugins/ui-ux-designer) | UI/UX Designer | frontend-design, canvas-design, theme-factory, brand-guidelines |
 | [pm](./plugins/pm) | Product Manager | doc-coauthoring, pptx, docx, internal-comms |
 | [planner](./plugins/planner) | 기획자 / Service Planner | doc-coauthoring, pptx, docx, internal-comms |
-| [pl](./plugins/pl) | Project Lead / Tech Lead | — |
+| [pl](./plugins/pl) | Project Lead / Tech Lead | create-team |
 
 ---
 
@@ -70,8 +70,6 @@ plugins/<role>/
 ---
 
 ## Skills Sources
-
-All skills are sourced directly from public GitHub repositories indexed on [skills.sh](https://skills.sh):
 
 | Skill | Source |
 |-------|--------|
@@ -99,6 +97,7 @@ All skills are sourced directly from public GitHub repositories indexed on [skil
 | pptx | [anthropics/skills](https://github.com/anthropics/skills) |
 | docx | [anthropics/skills](https://github.com/anthropics/skills) |
 | internal-comms | [anthropics/skills](https://github.com/anthropics/skills) |
+| create-team | custom |
 
 ---
 
