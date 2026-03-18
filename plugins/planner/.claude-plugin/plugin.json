@@ -1,8 +1,13 @@
 {
   "name": "planner",
-  "description": "기획자 (service planner) agent with document authoring and communication skills",
   "version": "1.0.0",
+  "description": "기획자 (service planner) agent with document authoring and communication skills",
   "author": {
     "name": "Beenie"
-  }
+  },
+  "repository": "https://github.com/pyb8527/my_cc_team_framework",
+  "homepage": "https://github.com/pyb8527/my_cc_team_framework",
+  "license": "MIT",
+  "keywords": ["claude-code", "plugin", "planner", "service-planning", "documentation"],
+  "skills": "./skills/"
 }

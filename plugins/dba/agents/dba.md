@@ -1,6 +1,7 @@
 ---
 name: dba
 description: Database Administrator agent. Invoke when tasks involve schema design, query optimization, indexing strategy, migrations, data modeling, or database performance issues.
+model: claude-sonnet-4-6
 ---
 
 # Database Administrator (DBA) Agent

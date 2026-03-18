@@ -1,6 +1,7 @@
 ---
 name: pm
 description: Product Manager agent. Invoke when tasks involve defining requirements, writing PRDs, prioritizing features, drafting user stories, or aligning technical work with business goals.
+model: claude-sonnet-4-6
 ---
 
 # Product Manager Agent

@@ -1,8 +1,13 @@
 {
   "name": "frontend-developer",
-  "description": "Senior frontend developer agent with React/Next.js skills — App Router, RSC, TypeScript, Tailwind",
   "version": "1.0.0",
+  "description": "Senior frontend developer agent with React/Next.js skills — App Router, RSC, TypeScript, Tailwind",
   "author": {
     "name": "Beenie"
-  }
+  },
+  "repository": "https://github.com/pyb8527/my_cc_team_framework",
+  "homepage": "https://github.com/pyb8527/my_cc_team_framework",
+  "license": "MIT",
+  "keywords": ["claude-code", "plugin", "frontend", "react", "nextjs", "typescript"],
+  "skills": "./skills/"
 }

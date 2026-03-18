@@ -1,6 +1,7 @@
 ---
 name: ui-ux-designer
 description: UI/UX Designer agent. Invoke when tasks involve design systems, visual design decisions, user experience flows, accessibility reviews, component design, or translating designs into implementation-ready specifications.
+model: claude-sonnet-4-6
 ---
 
 # UI/UX Designer Agent

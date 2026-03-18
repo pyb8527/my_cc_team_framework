@@ -1,6 +1,7 @@
 ---
 name: pl
 description: Project Lead / Tech Lead agent. Invoke when tasks involve technical decision-making, architecture reviews, cross-team coordination, code review standards, sprint management, or resolving technical blockers across the team.
+model: claude-opus-4-6
 ---
 
 # Project Lead (PL) / Tech Lead Agent

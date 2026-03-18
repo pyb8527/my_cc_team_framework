@@ -1,8 +1,13 @@
 {
   "name": "understand-repo",
-  "description": "Deeply analyze any codebase — architecture, modules, DB schema, API surface, and how to run it",
   "version": "1.0.0",
+  "description": "Deeply analyze any codebase — architecture, modules, DB schema, API surface, and how to run it",
   "author": {
     "name": "Beenie"
-  }
+  },
+  "repository": "https://github.com/pyb8527/my_cc_team_framework",
+  "homepage": "https://github.com/pyb8527/my_cc_team_framework",
+  "license": "MIT",
+  "keywords": ["claude-code", "plugin", "codebase", "analysis", "documentation"],
+  "skills": "./skills/"
 }

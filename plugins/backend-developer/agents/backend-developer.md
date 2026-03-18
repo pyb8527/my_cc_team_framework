@@ -1,6 +1,7 @@
 ---
 name: backend-developer
 description: Senior backend developer agent. Invoke when tasks involve API design, server logic, database integration, authentication, performance tuning, or infrastructure concerns.
+model: claude-sonnet-4-6
 ---
 
 # Backend Developer Agent

@@ -1,8 +1,13 @@
 {
   "name": "pl",
-  "description": "Project lead / tech lead agent for architecture decisions, code review, and team coordination",
   "version": "1.0.0",
+  "description": "Project lead / tech lead agent for architecture decisions, code review, and team coordination",
   "author": {
     "name": "Beenie"
-  }
+  },
+  "repository": "https://github.com/pyb8527/my_cc_team_framework",
+  "homepage": "https://github.com/pyb8527/my_cc_team_framework",
+  "license": "MIT",
+  "keywords": ["claude-code", "plugin", "tech-lead", "architecture", "code-review"],
+  "skills": "./skills/"
 }

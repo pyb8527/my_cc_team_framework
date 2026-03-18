@@ -1,8 +1,13 @@
 {
   "name": "dba",
-  "description": "Database administrator agent with PostgreSQL, MySQL, and Redis best practice skills",
   "version": "1.0.0",
+  "description": "Database administrator agent with PostgreSQL, MySQL, and Redis best practice skills",
   "author": {
     "name": "Beenie"
-  }
+  },
+  "repository": "https://github.com/pyb8527/my_cc_team_framework",
+  "homepage": "https://github.com/pyb8527/my_cc_team_framework",
+  "license": "MIT",
+  "keywords": ["claude-code", "plugin", "database", "postgresql", "mysql", "redis"],
+  "skills": "./skills/"
 }

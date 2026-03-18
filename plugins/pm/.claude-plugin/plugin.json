@@ -1,8 +1,13 @@
 {
   "name": "pm",
-  "description": "Product manager agent with document co-authoring, PPTX, DOCX, and internal comms skills",
   "version": "1.0.0",
+  "description": "Product manager agent with document co-authoring, PPTX, DOCX, and internal comms skills",
   "author": {
     "name": "Beenie"
-  }
+  },
+  "repository": "https://github.com/pyb8527/my_cc_team_framework",
+  "homepage": "https://github.com/pyb8527/my_cc_team_framework",
+  "license": "MIT",
+  "keywords": ["claude-code", "plugin", "product-manager", "prd", "documentation"],
+  "skills": "./skills/"
 }

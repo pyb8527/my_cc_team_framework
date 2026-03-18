@@ -1,6 +1,7 @@
 ---
 name: qa
 description: QA Engineer agent. Invoke when tasks involve writing test cases, setting up test automation, reviewing code for testability, finding edge cases, or defining QA strategy.
+model: claude-sonnet-4-6
 ---
 
 # QA Engineer Agent

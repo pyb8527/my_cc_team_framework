@@ -1,6 +1,7 @@
 ---
 name: frontend-developer
 description: Senior frontend developer agent. Invoke when tasks involve UI implementation, component architecture, state management, performance, accessibility, or browser-side logic.
+model: claude-sonnet-4-6
 ---
 
 # Frontend Developer Agent

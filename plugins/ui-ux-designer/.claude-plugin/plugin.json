@@ -1,8 +1,13 @@
 {
   "name": "ui-ux-designer",
-  "description": "UI/UX designer agent with frontend design, canvas, theme, and brand guideline skills",
   "version": "1.0.0",
+  "description": "UI/UX designer agent with frontend design, canvas, theme, and brand guideline skills",
   "author": {
     "name": "Beenie"
-  }
+  },
+  "repository": "https://github.com/pyb8527/my_cc_team_framework",
+  "homepage": "https://github.com/pyb8527/my_cc_team_framework",
+  "license": "MIT",
+  "keywords": ["claude-code", "plugin", "design", "ui", "ux", "figma"],
+  "skills": "./skills/"
 }
